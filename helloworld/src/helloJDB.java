@@ -17,7 +17,8 @@ public class helloJDB {
         System.out.println(sum);
     }
     public static int add(int augend,int addend){
-        int sum=augend+addend;
+
+        int sum= augend + addend;
 
         return sum;
     }
